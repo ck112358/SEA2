@@ -22,4 +22,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/firebaseConfig.js
+
+# add the firebaseConfig.js file to the .gitignore file
+firebaseConfig.js
